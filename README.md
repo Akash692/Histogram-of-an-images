@@ -1,6 +1,6 @@
 # Histogram-of-an-images
-## NAME : SAMEER SHARIFF M
-## REGISTER NUMBER : 212224220085
+## NAME : S.T. DHANAAAKHAASH
+## REGISTER NUMBER : 212224240032
 
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
@@ -77,6 +77,7 @@ plt.show()
 
 
 
+![img](https://github.com/user-attachments/assets/5c48cc53-6b14-4132-a0eb-1a2dfaa0eaa7)
 
 
 ```
@@ -84,7 +85,7 @@ plt.show()
 ### Input Grayscale Image and Color Image
 
 
-<img width="256" height="501" alt="Screenshot 2026-02-03 114115" src="https://github.com/user-attachments/assets/1885e9fe-4b76-4ebb-9cc1-70ef0f576233" />
+![img](https://github.com/user-attachments/assets/4736cc09-5981-4dc7-b0c0-77e5e7e25bf5)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
