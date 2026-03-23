@@ -1,4 +1,7 @@
 # Histogram-of-an-images
+## NAME : SAMEER SHARIFF M
+## REGISTER NUMBER : 212224220085
+
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -26,14 +29,14 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: MUKESH.R
-# Register Number: 212223240100
+# Developed By: SAMEER SHARIFF M
+# Register Number: 212224220085
 
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('iron.jpg')
+image = cv2.imread('rose.jpg')
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
@@ -70,9 +73,31 @@ plt.xlim([0, 256])
 plt.tight_layout()
 plt.show()
 
+
+
+
+
+
+
 ```
 ## Output:
-![371980101-fe884dfa-b5c7-47a7-ad8e-4e229a86e9b3](https://github.com/user-attachments/assets/6436de3a-cf9d-4ecf-99a9-f6dc55ab42cd)
+### Input Grayscale Image and Color Image
+
+
+<img width="256" height="501" alt="Screenshot 2026-02-03 114115" src="https://github.com/user-attachments/assets/1885e9fe-4b76-4ebb-9cc1-70ef0f576233" />
+
+
+### Histogram of Grayscale Image and any channel of Color Image
+
+<img width="775" height="558" alt="image" src="https://github.com/user-attachments/assets/b18fdd1e-ed20-4656-acdd-d2ec9dca329d" />
+
+
+
+### Histogram Equalization of Grayscale Image.
+
+<img width="830" height="548" alt="image" src="https://github.com/user-attachments/assets/5e1f2f78-904e-4a67-ba94-150f8bbbc072" />
+
+
 
 
 ## Result: 
